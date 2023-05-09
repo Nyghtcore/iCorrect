@@ -6,5 +6,5 @@ This code is for a firefox extension to help me solve a horrible pain i have and
 
 Known issues as of 5/9/2023
 
-* Does not work in rtf editors
+* Does not work in rich text editors
 * Does not work in all textareas
